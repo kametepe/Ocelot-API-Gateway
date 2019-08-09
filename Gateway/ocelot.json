@@ -6,7 +6,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
+          "Host": "demo.api.gateway",
           "Port": 52792
         }
       ],
@@ -19,7 +19,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
+          "Host": "demo.api.gateway",
           "Port": 52791
         }
       ],
@@ -32,7 +32,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
+          "Host": "demo.api.gateway",
           "Port": 52790
         }
       ],
@@ -44,7 +44,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
+          "Host": "demo.api.gateway",
           "Port": 52792
         }
       ],
@@ -57,7 +57,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
+          "Host": "demo.api.gateway",
           "Port": 52790
         }
       ],
@@ -83,7 +83,7 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:52793",
+    "BaseUrl": "http://demo.api.gateway:52793",
     "RateLimitOptions": {
       "DisableRateLimitHeaders": false,
       "QuotaExceededMessage": "Wait for me here",
