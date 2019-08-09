@@ -11,4 +11,3 @@ E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.AssemblyInfo.cs
 E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.RazorTargetAssemblyInfo.cache
 E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.dll
 E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.pdb
-E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.csprojAssemblyReference.cache

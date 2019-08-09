@@ -11,4 +11,3 @@ E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.AssemblyInfo.cs
 E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.RazorTargetAssemblyInfo.cache
 E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.dll
 E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.pdb
-E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.csprojAssemblyReference.cache

@@ -2,16 +2,18 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Ledger.Controllers
 {
     [Route("api/[controller]")]
     public class TransactionController : Controller
     {
-        [HttpGet]
-        public List<Transaction> All()
+        List<Transaction> transactions;
+
+        public TransactionController()
         {
-            return new List<Transaction>()
+            transactions = new List<Transaction>()
             {
                 new Transaction()
                 {
@@ -32,6 +34,18 @@ namespace Ledger.Controllers
                     Total = 180
                 }
             };
+        }
+        [HttpGet]
+        public List<Transaction> All()
+        {
+            return transactions;
+        }
+
+        [HttpGet("/api/transaction/getbyuserid/{id}")]
+        public List<Transaction> GetByUserID(Guid? id)
+        {
+            return transactions.Where(t => t.UserID == id)
+                               .ToList();
         }
     }
 }
