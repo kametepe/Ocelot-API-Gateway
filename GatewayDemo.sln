@@ -11,6 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog", "Catalog\Catalog.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway", "Gateway\Gateway.csproj", "{CEB683F6-6A0B-4208-879A-D195D1AC13F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AE23010-E3C5-4DA8-8912-6D0F2DAC26A9}"
+	ProjectSection(SolutionItems) = preProject
+		buildAllDockerImage.ps1 = buildAllDockerImage.ps1
+		cleanAllContainer.ps1 = cleanAllContainer.ps1
+		cleanAllImage.ps1 = cleanAllImage.ps1
+		ReStartContainer.ps1 = ReStartContainer.ps1
+		startAllDockerInstances.ps1 = startAllDockerInstances.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
