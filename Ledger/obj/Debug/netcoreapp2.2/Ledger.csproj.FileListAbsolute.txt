@@ -1,0 +1,13 @@
+E:\koudjo\GatewayDemo\Ledger\bin\Debug\netcoreapp2.2\Ledger.deps.json
+E:\koudjo\GatewayDemo\Ledger\bin\Debug\netcoreapp2.2\Ledger.runtimeconfig.json
+E:\koudjo\GatewayDemo\Ledger\bin\Debug\netcoreapp2.2\Ledger.runtimeconfig.dev.json
+E:\koudjo\GatewayDemo\Ledger\bin\Debug\netcoreapp2.2\Ledger.dll
+E:\koudjo\GatewayDemo\Ledger\bin\Debug\netcoreapp2.2\Ledger.pdb
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.csproj.CoreCompileInputs.cache
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.RazorAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.RazorAssemblyInfo.cs
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.AssemblyInfoInputs.cache
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.AssemblyInfo.cs
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.RazorTargetAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.dll
+E:\koudjo\GatewayDemo\Ledger\obj\Debug\netcoreapp2.2\Ledger.pdb

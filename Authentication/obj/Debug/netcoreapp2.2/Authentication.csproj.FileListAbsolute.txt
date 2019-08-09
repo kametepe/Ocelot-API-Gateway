@@ -1,0 +1,13 @@
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.csproj.CoreCompileInputs.cache
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorAssemblyInfo.cs
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfoInputs.cache
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.AssemblyInfo.cs
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.RazorTargetAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.dll
+E:\koudjo\GatewayDemo\Authentication\obj\Debug\netcoreapp2.2\Authentication.pdb
+E:\koudjo\GatewayDemo\Authentication\bin\Debug\netcoreapp2.2\Authentication.deps.json
+E:\koudjo\GatewayDemo\Authentication\bin\Debug\netcoreapp2.2\Authentication.runtimeconfig.json
+E:\koudjo\GatewayDemo\Authentication\bin\Debug\netcoreapp2.2\Authentication.runtimeconfig.dev.json
+E:\koudjo\GatewayDemo\Authentication\bin\Debug\netcoreapp2.2\Authentication.dll
+E:\koudjo\GatewayDemo\Authentication\bin\Debug\netcoreapp2.2\Authentication.pdb

@@ -1,0 +1,13 @@
+E:\koudjo\GatewayDemo\Catalog\bin\Debug\netcoreapp2.2\Catalog.deps.json
+E:\koudjo\GatewayDemo\Catalog\bin\Debug\netcoreapp2.2\Catalog.runtimeconfig.json
+E:\koudjo\GatewayDemo\Catalog\bin\Debug\netcoreapp2.2\Catalog.runtimeconfig.dev.json
+E:\koudjo\GatewayDemo\Catalog\bin\Debug\netcoreapp2.2\Catalog.dll
+E:\koudjo\GatewayDemo\Catalog\bin\Debug\netcoreapp2.2\Catalog.pdb
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.csproj.CoreCompileInputs.cache
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.RazorAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.RazorAssemblyInfo.cs
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.AssemblyInfoInputs.cache
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.AssemblyInfo.cs
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.RazorTargetAssemblyInfo.cache
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.dll
+E:\koudjo\GatewayDemo\Catalog\obj\Debug\netcoreapp2.2\Catalog.pdb
