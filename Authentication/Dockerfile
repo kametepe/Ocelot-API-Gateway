@@ -17,8 +17,11 @@ COPY . ./
 # Builds your application.
 RUN dotnet publish -c Release -o out
 
-# Pulls a runtime image for your application.
-FROM microsoft/dotnet:aspnetcore-runtime
+# Pay attention to the following two lines
+FROM microsoft/dotnet-nightly:2.1-runtime-alpine
+
+# Alpine runtime doesn't expose 80 by default (Dang)
+EXPOSE 80
 
 # Sets the execution context of 
 # the docker commands
